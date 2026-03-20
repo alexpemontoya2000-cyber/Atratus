@@ -8,7 +8,7 @@ import CTASection from '../components/CTASection'
 export default function BlogArticle() {
   useEffect(() => {
     setSEO({
-      title: 'Qué llevar a tu primera caminata por el monte colombiano | Atratus',
+      title: '¿Qué es Senderismo? Qué llevar a tu primera caminata por el monte colombiano | Atratus',
       description: 'Guía completa de ropa y equipamiento para senderismo en Colombia: chaqueta impermeable, pantalones técnicos, botas y accesorios. Diseñado para el clima tropical de montaña.',
       canonical: 'https://atratus-seo-content.vercel.app/blog/que-llevar-caminata-monte-colombiano',
       keywords: 'chaqueta impermeable, ropa para senderismo Colombia, botas de senderismo, pantalones de senderismo, implementos para el monte, ropa outdoor Colombia',
