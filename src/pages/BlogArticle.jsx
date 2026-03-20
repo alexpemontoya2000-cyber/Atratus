@@ -22,7 +22,7 @@ export default function BlogArticle() {
       <Hero
         breadcrumb="Inicio › Blog › Guía de senderismo"
         label="Guía Outdoor"
-        title="Qué llevar a tu primera caminata por el monte colombiano"
+        title="¿Qué es Senderismo? Qué llevar a tu primera caminata por el monte colombiano"
         subtitle="Guía completa — desde la chaqueta impermeable hasta las medias técnicas"
         meta="Lectura de 8 min · Equipo Atratus · Actualizado 2026"
       />
